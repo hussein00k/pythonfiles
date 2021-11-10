@@ -10,6 +10,6 @@ print("---------add new itme\n")
 info["collage"]="information technology"
 disply(info)
 print("---------remove the name\n")
-
+print("add more info")
 info.pop("name")
 disply(info)
